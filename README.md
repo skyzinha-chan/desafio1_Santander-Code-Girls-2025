@@ -15,7 +15,7 @@ A arquitetura desenhada representa uma aplicação web simples e robusta na nuve
 
 ### Diagrama
 
-![Diagrama da Arquitetura AWS](./images/desafio1_Santander Code Girls - 2025.png)
+![Diagrama da Arquitetura AWS](https://github.com/skyzinha-chan/desafio1_Santander-Code-Girls-2025/blob/57b7c4224ab26a75052f8f0270a1d09051952cfb/images/desafio1_Santander%20Code%20Girls%20-%202025.png) 
 
 ### Descrição dos Componentes
 
@@ -34,3 +34,41 @@ A arquitetura utiliza dois volumes:
 2.  A instância **EC2** recebe este arquivo.
 3.  A lógica da aplicação na **EC2** processa o arquivo e armazena os dados nos volumes **EBS** anexados.
 4.  As informações e metadados relevantes sobre o arquivo ou a operação são gravados no banco de dados **RDS** para consulta posterior.
+
+### ⚖️ Licença
+
+O conteúdo é licenciado sob a **[Licença MIT](LICENSE)**.
+
+---
+<div align="center">
+
+## **✨ 🧑‍💻 Autora ✨**
+
+| Integrante                  |                                                      GitHub                                                      |                                                                  LinkedIn                                                                  |                                                             Instagram                                                             |
+| :-------------------------- | :--------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------: |
+| **Talita Mendonça Marques** | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/skyzinha-chan) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/talita-mendonca-marques/) | [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram)](https://www.instagram.com/skyzinha_chan/) |
+
+</div>
+
+
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/skyzinha-chan">
+        <img src="./assets/talita-mendonca.jpg" width="150px;" alt="Foto de Talita Mendonça Marques" style="border-radius:50%;"/>
+        <br />
+        <sub><b>Talita Mendonça Marques</b></sub>
+      </a>
+    </td>
+    
+  </tr>
+</table>
+
+**Licenciatura em Ciência da Computação**
+<br>
+Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul - **Campus Jardim**
+
+</div>
